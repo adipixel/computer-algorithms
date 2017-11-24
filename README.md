@@ -1,6 +1,6 @@
 # Computer Algorithms
 
-This reapository contains mplementation of various algorithms.
+This repository contains implementation of various algorithms.
 
 - Binary Search
 - Dijkstra's Algorithm
