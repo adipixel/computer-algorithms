@@ -14,4 +14,6 @@ def insertionSort(arr):
 def main():
   arr = [12, 11, 13, 5, -2, 6]
   print(insertionSort(arr))
+  print(insertionSort([]))
+  print(insertionSort([-1]))
 main()
